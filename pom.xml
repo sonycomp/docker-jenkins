@@ -10,3 +10,4 @@
 <build>
     <finalName>docker-jenkins-integration-sample</finalName>
 </build>
+</project>
